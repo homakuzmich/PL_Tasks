@@ -26,7 +26,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChecingInputFile.cpp">
+    <ClCompile Include="CheckingInputFile.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
     <ClCompile Include="CheckingUsersPoint.cpp">

@@ -34,19 +34,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input1.txt">
+    <Text Include="Cash1.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="input2.txt">
+    <Text Include="Cash2.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="input3.txt">
+    <Text Include="Cash3.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="input4.txt">
+    <Text Include="Cash4.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="input5.txt">
+    <Text Include="Cash5.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
