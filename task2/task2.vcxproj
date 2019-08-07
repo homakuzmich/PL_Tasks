@@ -151,7 +151,7 @@
     <ClInclude Include="Point.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChecingInputFile.cpp" />
+    <ClCompile Include="CheckingInputFile.cpp" />
     <ClCompile Include="CheckingUsersPoint.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Point.cpp" />
