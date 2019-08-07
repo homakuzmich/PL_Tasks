@@ -155,11 +155,11 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input1.txt" />
-    <Text Include="input2.txt" />
-    <Text Include="input3.txt" />
-    <Text Include="input4.txt" />
-    <Text Include="input5.txt" />
+    <Text Include="Cash1.txt" />
+    <Text Include="Cash2.txt" />
+    <Text Include="Cash3.txt" />
+    <Text Include="Cash4.txt" />
+    <Text Include="Cash5.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
